@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349749534231",
+    "project_id": "wordoftheday-515e0",
+    "storage_bucket": "wordoftheday-515e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349749534231:android:4656f9aa09dad50f984652",
+        "android_client_info": {
+          "package_name": "com.Wordoftheday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVyGqbSX2Heo0CrYz-5hjfxlKfpfDWTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
