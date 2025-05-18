@@ -73,3 +73,15 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# --- Android build / cache ---
+android/.gradle/
+android/build/
+android/app/build/
+**/intermediates/
+**/outputs/
+
+# Release binaries
+*.apk
+*.aab
+*.so
